@@ -10,3 +10,4 @@ if (word1.lenght > word2.lenght){
 } else {
     console.log (word2, word1)
 }
+
